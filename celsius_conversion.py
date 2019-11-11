@@ -2,7 +2,7 @@
 
 # Created by: Teddy Sannan
 # Created on: November 2019
-# This program adds user number from 0
+# This program converts Celsius to Fahrenheit
 
 
 def main():
